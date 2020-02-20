@@ -10,6 +10,11 @@ Download ParseCSV.jar and run java -jar ParseCSV.jar
 
 Requires SQLITE-JDBC
 
+####Misc
+
+Currently uses Data.csv as the input file and Data-bad.csv as the output for invalid files.
+Valid entries are currently written to Data.db located in C:/sqlite directory.
+
 
 
 
